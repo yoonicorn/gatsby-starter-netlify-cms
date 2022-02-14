@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Golden Bay Public Library
 image: /img/1615342673644.jpg
-heading: Cute anime girls
+heading: Cute fuzzy animals
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
