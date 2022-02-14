@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Summer Reading Program
+title: Golden Bay Public Library
 image: /img/1615342673644.jpg
 heading: Cute anime girls
 subheading: Support sustainable farming while enjoying a cup
